@@ -1,5 +1,5 @@
 ; VisSim Block Diagram Format (VBDF)
-; Copyright ©1989-2004 Visual Solutions
+; Copyright Â©1989-2004 Visual Solutions
 PV=5.000f
 PS=0
 PE=0.04
@@ -29,7 +29,7 @@ QLi[5]=1
 0
 2043
 QLc[8]="5.0.17c"
-QLc[64]="q§hb©«o,Filler"
+QLc[64]="qÂ§hbÂ©Â«o,Filler"
 N.1="plot"*110x13*96x48
 px="Time (msec)"
 pax=0
